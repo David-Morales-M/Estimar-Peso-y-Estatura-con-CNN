@@ -1,0 +1,3 @@
+Imagen: entrada/h_michael.jpg
+Altura: 178.9 cm
+Peso: 102.2 kg

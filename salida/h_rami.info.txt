@@ -1,0 +1,3 @@
+Imagen: entrada/h_rami.jpg
+Altura: 177.2 cm
+Peso: 76.6 kg

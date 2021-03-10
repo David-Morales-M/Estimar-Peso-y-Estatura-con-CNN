@@ -1,0 +1,3 @@
+Imagen: entrada/h_joker.jpg
+Altura: 188.6 cm
+Peso: 82.1 kg

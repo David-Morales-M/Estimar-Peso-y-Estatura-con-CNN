@@ -1,0 +1,5 @@
+Imagen: entrada/h_harry.jpg
+Altura: 170.5 cm
+Peso: 69.5 kg
+IMC: 23.90 cm
+Estado:Normal

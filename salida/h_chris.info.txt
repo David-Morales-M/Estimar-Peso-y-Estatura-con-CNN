@@ -1,0 +1,3 @@
+Imagen: entrada/h_chris.jpg
+Altura: 182.5 cm
+Peso: 81.4 kg

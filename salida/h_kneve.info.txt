@@ -1,0 +1,3 @@
+Imagen: entrada/h_kneve.jpg
+Altura: 177.7 cm
+Peso: 73.4 kg

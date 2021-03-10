@@ -1,0 +1,3 @@
+Imagen: entrada/h_bryan.jpg
+Altura: 177.8 cm
+Peso: 76.6 kg

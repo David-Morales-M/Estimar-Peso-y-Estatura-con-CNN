@@ -1,0 +1,3 @@
+Imagen: entrada/h_balvin.jpg
+Altura: 178.9 cm
+Peso: 73.5 kg

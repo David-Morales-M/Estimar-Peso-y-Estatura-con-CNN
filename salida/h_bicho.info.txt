@@ -1,0 +1,3 @@
+Imagen: entrada/h_bicho.jpg
+Altura: 186.1 cm
+Peso: 90.5 kg

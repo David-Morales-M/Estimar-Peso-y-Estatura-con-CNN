@@ -1,0 +1,3 @@
+Imagen: entrada/h_bradley.jpg
+Altura: 182.3 cm
+Peso: 72.8 kg

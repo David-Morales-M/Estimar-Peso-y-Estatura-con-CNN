@@ -1,0 +1,3 @@
+Imagen: entrada/h_kevin.jpg
+Altura: 180.8 cm
+Peso: 94.8 kg
