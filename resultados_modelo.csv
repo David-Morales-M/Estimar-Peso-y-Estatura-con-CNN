@@ -1,0 +1,51 @@
+nombre,estatura_predicho,peso_predicho,estatura_real,peso_real,IMC_predicho,IMC_real,estado_predicho,estado_real,v_estado_predicho,v_estado_real
+m_adele,165.7,84.7,175,83,30.85,27.10,Obesidad,Sobrepeso,4,3
+m_charlize,170.7,55.1,177,55,18.91,17.56,Normal,Bajo Peso,2,1
+m_emma,167.5,53,165,50,18.89,18.37,Normal,Bajo Peso,2,1
+m_angelina,169.8,52.1,173,52,18.07,17.37,Bajo Peso,Bajo Peso,1,1
+m_zendaya,170.6,72.9,178,59,25.05,18.62,Sobrepeso,Normal,3,2
+m_dua,165.3,69.5,173,68,25.44,22.72,Sobrepeso,Normal,3,2
+m_gal,174.5,69.4,178,52,22.79,16.41,Normal,Bajo Peso,2,1
+m_margot,168,56.2,168,57,19.91,20.20,Normal,Normal,2,2
+m_mila,163.3,55.2,163,52,20.70,19.57,Normal,Normal,2,2
+m_natalie,165.4,64,160,50,23.39,19.53,Normal,Normal,2,2
+m_rosalia,168.7,69.2,175,67,24.32,21.88,Normal,Normal,2,2
+m_salma,167.6,67,157,55,23.85,22.31,Normal,Normal,2,2
+m_sofia,165.4,64.8,170,64,23.69,22.15,Normal,Normal,2,2
+m_scarlet,178.8,64.5,161,50,20.18,19.29,Normal,Normal,2,2
+m_jennifer,169.8,63.5,164,53,22.02,19.71,Normal,Normal,2,2
+m_lawrence,168.5,56.5,170,62,19.90,21.45,Normal,Normal,2,2
+m_halle,163.8,62.4,166,55,23.26,19.96,Normal,Normal,2,2
+m_lopez,168.6,60.6,164,62,21.32,23.05,Normal,Normal,2,2
+m_olivia,167.7,66.1,170,52,23.50,17.99,Normal,Bajo Peso,2,1
+m_ellie,168.9,72.3,175,59,25.34,19.27,Sobrepeso,Normal,3,2
+m_fox,164.5,54.4,163,54,20.10,20.32,Normal,Normal,2,2
+m_con,181.7,67.8,169,54,20.54,18.91,Normal,Normal,2,2
+m_amy,163.7,66.2,163,58,24.70,21.83,Normal,Normal,2,2
+m_sandra,166.7,66.2,171,54,23.82,18.47,Normal,Bajo Peso,2,1
+m_stone,167.2,64.2,168,52,22.96,18.42,Normal,Bajo Peso,2,1
+h_messi,180.5,90.8,169,67,27.87,23.46,Sobrepeso,Normal,3,2
+h_harry,170.5,69.5,166,53,23.91,19.23,Normal,Normal,2,2
+h_michael,178.9,102.2,198,98,31.93,25.00,Obesidad,Normal,4,2
+h_thor,179.1,76.6,190,91,23.88,25.21,Normal,Sobrepeso,2,3
+h_superman,186.4,76.1,185,92,21.90,26.88,Normal,Sobrepeso,2,3
+h_bicho,186.1,90.5,187,83,26.13,23.74,Sobrepeso,Normal,3,2
+h_chris,182.5,81.4,183,83,24.44,24.78,Normal,Normal,2,2
+h_favreau,182.5,112.2,183,95,33.69,28.37,Obesidad,Sobrepeso,4,3
+h_federer,180.5,80.5,185,85,24.71,24.84,Normal,Normal,2,2
+h_kneve,177.7,73.4,186,86,23.24,24.86,Normal,Normal,2,2
+h_will,184.6,79.8,188,82,23.42,23.20,Normal,Normal,2,2
+h_tom,185,85.6,170,68,25.01,23.53,Sobrepeso,Normal,3,2
+h_leo,180.3,80.1,183,75,24.64,22.40,Normal,Normal,2,2
+h_pitt,182.6,82.5,180,78,24.74,24.07,Normal,Normal,2,2
+h_joker,188.6,82.1,173,71,23.08,23.72,Normal,Normal,2,2
+h_leto,168.5,76.4,175.3,67.1,26.91,21.84,Sobrepeso,Normal,3,2
+h_rami,177.2,76.6,175,70,24.40,22.86,Normal,Normal,2,2
+h_bradley,182.3,72.8,186,86,21.91,24.86,Normal,Normal,2,2
+h_jason,183.9,100.4,193,97,29.69,26.04,Sobrepeso,Sobrepeso,3,3
+h_neymar,171.9,72.3,175,68,24.47,22.20,Normal,Normal,2,2
+h_bryan ,177.8,76.6,179,76,24.23,23.72,Normal,Normal,2,2
+h_kevin,180.8,94.8,180,76,29.00,23.46,Sobrepeso,Normal,3,2
+h_zlatan,176.5,95.8,195,95,30.75,24.98,Obesidad,Normal,4,2
+h_balvin,178.9,73.5,175,80,22.97,26.12,Normal,Sobrepeso,2,3
+h_yo,172.0,73.6,182.0,62.0,24.88,18.72,Normal,Normal,2,2
